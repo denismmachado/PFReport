@@ -1,0 +1,14 @@
+C:\Meus Estudos\vs2019\PFReport\PFReport\PFReport\bin\Debug\PFReport.exe.config
+C:\Meus Estudos\vs2019\PFReport\PFReport\PFReport\bin\Debug\PFReport.exe
+C:\Meus Estudos\vs2019\PFReport\PFReport\PFReport\bin\Debug\PFReport.pdb
+C:\Meus Estudos\vs2019\PFReport\PFReport\PFReport\bin\Debug\Oracle.DataAccess.dll
+C:\Meus Estudos\vs2019\PFReport\PFReport\PFReport\obj\Debug\PFReport.csproj.AssemblyReference.cache
+C:\Meus Estudos\vs2019\PFReport\PFReport\PFReport\obj\Debug\PFReport.Form1.resources
+C:\Meus Estudos\vs2019\PFReport\PFReport\PFReport\obj\Debug\PFReport.Properties.Resources.resources
+C:\Meus Estudos\vs2019\PFReport\PFReport\PFReport\obj\Debug\PFReport.csproj.GenerateResource.cache
+C:\Meus Estudos\vs2019\PFReport\PFReport\PFReport\obj\Debug\PFReport.csproj.CoreCompileInputs.cache
+C:\Meus Estudos\vs2019\PFReport\PFReport\PFReport\obj\Debug\PFReport.csproj.CopyComplete
+C:\Meus Estudos\vs2019\PFReport\PFReport\PFReport\obj\Debug\PFReport.exe
+C:\Meus Estudos\vs2019\PFReport\PFReport\PFReport\obj\Debug\PFReport.pdb
+C:\Meus Estudos\vs2019\PFReport\PFReport\PFReport\obj\Debug\PFReport.frmCadastroRelatorio.resources
+C:\Meus Estudos\vs2019\PFReport\PFReport\PFReport\obj\Debug\PFReport.frmTelaInicial.resources
